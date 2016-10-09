@@ -1,0 +1,36 @@
+c:\users\yohan\documents\visual studio 2012\Projects\Practica01\Practica01\bin\Debug\Practica01.exe.config
+c:\users\yohan\documents\visual studio 2012\Projects\Practica01\Practica01\bin\Debug\Practica01.exe
+c:\users\yohan\documents\visual studio 2012\Projects\Practica01\Practica01\bin\Debug\Practica01.pdb
+c:\users\yohan\documents\visual studio 2012\Projects\Practica01\Practica01\obj\Debug\Practica01.csprojResolveAssemblyReference.cache
+c:\users\yohan\documents\visual studio 2012\Projects\Practica01\Practica01\obj\Debug\Practica01.Form1.resources
+c:\users\yohan\documents\visual studio 2012\Projects\Practica01\Practica01\obj\Debug\Practica01.Properties.Resources.resources
+c:\users\yohan\documents\visual studio 2012\Projects\Practica01\Practica01\obj\Debug\Practica01.csproj.GenerateResource.Cache
+c:\users\yohan\documents\visual studio 2012\Projects\Practica01\Practica01\obj\Debug\Practica01.exe
+c:\users\yohan\documents\visual studio 2012\Projects\Practica01\Practica01\obj\Debug\Practica01.pdb
+D:\Programacion 2 - Intensivo\1 parcial\Practica01\Practica01\bin\Debug\Practica01.exe.config
+D:\Programacion 2 - Intensivo\1 parcial\Practica01\Practica01\obj\Debug\Practica01.exe
+D:\Programacion 2 - Intensivo\1 parcial\Practica01\Practica01\obj\Debug\Practica01.pdb
+D:\Programacion 2 - Intensivo\1 parcial\Practica01\Practica01\bin\Debug\Practica01.exe
+D:\Programacion 2 - Intensivo\1 parcial\Practica01\Practica01\bin\Debug\Practica01.pdb
+D:\Programacion 2 - Intensivo\1 parcial\Practica01\Practica01\obj\Debug\Practica01.csprojResolveAssemblyReference.cache
+D:\Programacion 2 - Intensivo\1 parcial\Practica01\Practica01\obj\Debug\Practica01.Form1.resources
+D:\Programacion 2 - Intensivo\1 parcial\Practica01\Practica01\obj\Debug\Practica01.Properties.Resources.resources
+D:\Programacion 2 - Intensivo\1 parcial\Practica01\Practica01\obj\Debug\Practica01.csproj.GenerateResource.Cache
+F:\Programacion 2 - Intensivo\1 parcial\Practica01\Practica01\bin\Debug\Practica01.exe.config
+F:\Programacion 2 - Intensivo\1 parcial\Practica01\Practica01\obj\Debug\Practica01.exe
+F:\Programacion 2 - Intensivo\1 parcial\Practica01\Practica01\obj\Debug\Practica01.pdb
+F:\Programacion 2 - Intensivo\1 parcial\Practica01\Practica01\bin\Debug\Practica01.exe
+F:\Programacion 2 - Intensivo\1 parcial\Practica01\Practica01\bin\Debug\Practica01.pdb
+F:\Programacion 2 - Intensivo\1 parcial\Practica01\Practica01\obj\Debug\Practica01.csprojResolveAssemblyReference.cache
+F:\Programacion 2 - Intensivo\1 parcial\Practica01\Practica01\obj\Debug\Practica01.Form1.resources
+F:\Programacion 2 - Intensivo\1 parcial\Practica01\Practica01\obj\Debug\Practica01.Properties.Resources.resources
+F:\Programacion 2 - Intensivo\1 parcial\Practica01\Practica01\obj\Debug\Practica01.csproj.GenerateResource.Cache
+C:\Users\Leo\Documents\GitHub\Practica01\Practica01\bin\Debug\Practica01.exe.config
+C:\Users\Leo\Documents\GitHub\Practica01\Practica01\obj\Debug\Practica01.exe
+C:\Users\Leo\Documents\GitHub\Practica01\Practica01\obj\Debug\Practica01.pdb
+C:\Users\Leo\Documents\GitHub\Practica01\Practica01\bin\Debug\Practica01.exe
+C:\Users\Leo\Documents\GitHub\Practica01\Practica01\bin\Debug\Practica01.pdb
+C:\Users\Leo\Documents\GitHub\Practica01\Practica01\obj\Debug\Practica01.csprojResolveAssemblyReference.cache
+C:\Users\Leo\Documents\GitHub\Practica01\Practica01\obj\Debug\Practica01.Form1.resources
+C:\Users\Leo\Documents\GitHub\Practica01\Practica01\obj\Debug\Practica01.Properties.Resources.resources
+C:\Users\Leo\Documents\GitHub\Practica01\Practica01\obj\Debug\Practica01.csproj.GenerateResource.Cache
